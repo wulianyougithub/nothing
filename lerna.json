@@ -1,0 +1,28 @@
+{
+  "changelog": {
+    "labels": {
+      "pr(enhancement)": ":improvement: Enhancement",
+      "pr(bug)": ":bug: Bug Fix",
+      "pr(documentation)": ":docs: Documentation",
+      "pr(dependency)": ":deciduous_tree: Dependency",
+      "pr(chore)": ":turtle: Chore"
+    },
+    "repo": "imfly/ddn",
+    "cacheDir": ".changelog"
+  },
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "publishConfig": {
+    "access": "public"
+  },
+  "command": {
+    "publish": {
+      "git-tag-version": false,
+      "push": false
+    }
+  },
+  "useWorkspaces": true,
+  "npmClient": "yarn"
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lerna": "^4.0.0"
+  },
+  "name": "orgPlugin",
+  "workspaces": [
+    "packages/*"
+  ]
+}
