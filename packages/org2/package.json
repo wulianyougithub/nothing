@@ -1,0 +1,26 @@
+{
+  "name": "@testrg/org2",
+  "version": "1.0.0",
+  "description": "test",
+  "author": "wulianyou <1056941326@qq.com>",
+  "homepage": "https://github.com/wulianyougithub/nothing#readme",
+  "license": "ISC",
+  "main": "lib/org2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wulianyougithub/nothing.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/wulianyougithub/nothing/issues"
+  }
+}
