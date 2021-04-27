@@ -1,6 +1,6 @@
 {
   "name": "@testrg/org2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test",
   "author": "wulianyou <1056941326@qq.com>",
   "homepage": "https://github.com/wulianyougithub/nothing#readme",
@@ -13,7 +13,9 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {"access": "public"},
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wulianyougithub/nothing.git"
